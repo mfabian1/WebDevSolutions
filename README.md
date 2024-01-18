@@ -1,2 +1,2 @@
 # WebDevSolutions
-Coursera Web Dev Solutions
+Coursera Web Dev Solution Module 2
